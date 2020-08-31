@@ -1,4 +1,4 @@
-![Example screenshot](https://github.com/hrmtk/nyt-clone/blob/master/images/Screenshot_Apple.jpg)
+![Example screenshot](https://github.com/hrmtk/old-apple-clone/blob/master/images/Screenshot_Apple.jpg)
 
 ## Apple clone
 > This project was created for practicing building with  backgrounds and gradients in HTML and CSS.\
